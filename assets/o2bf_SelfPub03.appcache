@@ -1,0 +1,7 @@
+CACHE MANIFEST
+#ver 1.0.0
+CACHE:
+./favicon.ico
+../styles.bundle.js
+../inline.bundle.js
+../main.bundle.js
